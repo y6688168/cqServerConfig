@@ -102,4 +102,5 @@
 <enableSkin>1</enableSkin>
 <skinList>all,2;3.7.1,1;3.7.0,2</skinList>
 </Misc>
+<LatchConfig>0,0;3.8.0,1;3.7.1,0</LatchConfig>
 </root>
